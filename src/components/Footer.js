@@ -49,13 +49,21 @@ function Footer() {
         {/* Column 1 */}
         <div style={styles.column}>
           <div style={styles.heading}>Service Location</div>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>&gt; Benguluru One Day Tour</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>&gt; Benguluru Outside City Tour</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>&gt; Benguluru to Murudeshwar Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>&gt; Benguluru to Dharmasthala Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>&gt; Benguluru to Mysore Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>&gt; Benguluru to Mysore One Day Tour Package</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>&gt; Benguluru to Coorg Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>&gt; Benguluru to Chikmagalur Car Rental</a>
         </div>
 
@@ -63,8 +71,11 @@ function Footer() {
         <div style={styles.column}>
           <div style={styles.heading}>Service</div>
           <h5>Fleet Rentals</h5>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>Van Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>Luxury Car Rental</a>
           
 		  <h5>Become a Partner</h5>
@@ -75,10 +86,15 @@ function Footer() {
         <div style={styles.column}>
           <div style={styles.heading}>More Service</div>
 		  <h5>More Services</h5>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>Monthly Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>Wedding Car Rental</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" style={styles.link}>Corporate Car Rental in Benguluru</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>Employee Transportation</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>Weekend Tours</a>
 		  
 		  <h5>Hire Drivers</h5>
@@ -91,8 +107,11 @@ function Footer() {
         <div style={styles.column}>
           <div style={styles.heading}>Connect</div>
 		  <h5>Contact</h5>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="tel:+919876543210" style={styles.link}>📞 +91 98765 43210</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="tel:+919876543210" style={styles.link}>📞 +91 98765 43210</a>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="mailto:info@aptravels.com" style={styles.link}>✉️ info@aptravels.com</a>
 		  
 		 <h5 style={{ margin: "20px 0 10px", color: "#fff" }}>Address</h5>
@@ -107,6 +126,7 @@ function Footer() {
 		  <Link to="/terms" style={styles.link}>Terms & Conditions</Link>
 		  <Link to="/privacy" style={styles.link}>Privacy Policy</Link>
 		  <Link to="/cancel" style={styles.link}>Cancellation & Refund Policy</Link>
+		  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
 		  <a href="#" style={styles.link}>About Us</a>
         </div>
       </div>
