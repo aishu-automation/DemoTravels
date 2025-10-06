@@ -10,3 +10,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+// Add this line to use reportWebVitals and avoid unused variable error
+reportWebVitals();
